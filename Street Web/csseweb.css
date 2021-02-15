@@ -1,0 +1,127 @@
+body {
+	background-image: url(img/fond2.jpg);
+	background-color: #464646;
+}
+
+
+
+@font-face {
+	font-family: mom;
+	src: url(police/mom.ttf);
+}
+
+@font-face {
+	font-family: king;
+	src: url(police/Kingthings.ttf);
+}
+
+
+@font-face {
+	font-family: travel;
+	src: url(police/travel.ttf);
+}
+
+#Etitre {
+	text-align: justify;
+	color: #DE2D08  ;
+	font-family: 'king', serif;
+	font-weight: bold;
+
+}
+
+
+.equipe{
+	margin : 45px;
+}	
+
+.equipe2{
+	margin : 125px;
+}
+.nom {
+    overflow: hidden;
+    transition-duration: 0.8s;
+    transition-property: transform;
+}
+
+
+#Eparagraphe1 {
+	color: white;
+	text-align : justify;
+	font-family: 'travel';
+	font-size: 130%;
+}
+
+#oeuvre {
+	font-family:'king', serif;
+	color: white;
+	transition: 1s ease-out;
+
+}
+
+#nom {
+	font-family:'king', serif;
+	color: white;
+	transition: 1s ease-out;
+	text-align : center;
+}
+
+#nom:hover {
+	color: red;
+}
+
+#oeuvre:hover {
+	color: red;
+}
+
+figcaption{
+	color: white;
+	text-align : center;
+	font-family: 'travel';
+	font-size: 130%;
+	font-style: italic;
+}
+
+#avis {
+	font-family: 'mom', serif;
+	color :#DE2D08  ;
+	font-size : 180%;
+}
+
+.navbar
+{
+	text-transform: uppercase;
+	font-weight: 800;
+	font-size: 18px;
+	font-family:  'king', serif;
+	color : white;
+
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color : white;
+	transition: 1s;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+	color :    #bd0101   ;
+
+}
+
+.logo {
+  	color:#FFFFFF;
+  	font-size:150%;
+  	margin-left: 10px;
+  	transition: 0.5s;
+}
+.logo:hover {
+	color:  #bd0101  ;
+	font-size: 130%;
+}
+
+footer{
+position: absolute;
+margin: 300px 0px 0px 0px;
+width: 100%;
+height: 50px;
+background-color: #343a40;
+}
