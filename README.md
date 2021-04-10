@@ -4,8 +4,8 @@ Nous avons développé en 1er année de DUT Informatique à l'Université de Par
 Il est développé entièrement en HTML/CSS avec un framework (BOOTSTRAP)
 ### Auteurs :
 ```
-Mehdi Al Sid Cheikh
-Moïna Valmy
-Mathieu Pauline
-Mikolajek Hugo
-Neil Galliard
+Mehdi AL SID CHEIKH
+Moïna VALMY 
+Pauline MATHIEU 
+Hugo MIKOLAJEK
+Neil GAILLARD
